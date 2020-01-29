@@ -13,8 +13,7 @@
     "cors": "^2.8.1",
     "body-parser": "^1.15.2",
     "dotenv": "^8.2.0",
-    "mongoose-auto-increment": "^5.0.1",
-    "url-exists": "^1.0.3",
+    "mongoose-auto-increment": "^5.0.1",    
     "valid-url": "^1.0.9"
   },
   "engines": {
